@@ -31,6 +31,8 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- [AI Jason](https://youtu.be/pJwR5pv0_gs?si=BdXjIX1mEik-Lbpz), [Matthew Berman](https://www.youtube.com/@matthew_berman) and [AI Search](https://www.youtube.com/@theAIsearch) - short explainer videos of AI Engineering related projects and news
  	- [Julia Turc](https://youtu.be/-VGeHZqOk_s?si=PibR_OCelS28OJAT)
 	- smaller creators worth noting: [Algorithmic Simplicity](https://www.youtube.com/watch?v=N6Piou4oYx8) (explanations of archs), [Umar Jamil (standard concept teaching channel, very technical)](https://www.youtube.com/@umarjamilai?app=desktop) and [Daniel Bourke (livestream paper replication)](https://www.youtube.com/@danielbourkearxiv2821?app=desktop), [Efficient NLP (good short paper/technique explainers)](https://www.youtube.com/@EfficientNLP), [Trelis Research](https://www.youtube.com/watch?v=ae2lbmtTY5A), [McKay Wrigley](https://www.youtube.com/@realmckaywrigley)
+	- [Chain of Thought](https://chainofthought.show/) (Conor Bronsdon) - interviews with AI and dev tools leaders, good mix of technical depth and industry strategy
+	- [How I AI](https://www.lennysnewsletter.com/s/how-i-ai) (Claire Vo) - 30-min screen-share episodes showing exactly how people use AI at work. part of Lenny's Podcast network
 	- [/r/LocalLlama list has 23 recommendations](https://www.reddit.com/r/LocalLLaMA/comments/1atycgd/which_localllama_focused_yt_channels_do_you_follow/)
 - Companies
 	- [The DeepMind Podcast](https://deepmind.google/discover/the-podcast/) - from GDM 

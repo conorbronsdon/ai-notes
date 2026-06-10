@@ -62,6 +62,7 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- Alan Thompson's Life Architect https://lifearchitect.substack.com (note [his credentials sus](https://news.ycombinator.com/item?id=35588974))
 	- Bradley Metrock (Deepgram) https://thisweekinvoice.substack.com/
 	- Carlos's Data Machina https://datamachina.substack.com/
+	- Conor Bronsdon's [Chain of Thought](https://newsletter.chainofthought.show/) - AI engineering interviews and writeups on agents, evals, and LLMOps
 	- Davis Blalock Arxiv roundup https://dblalock.substack.com/
 	- [Elvis Saravia's NLP Newsletter](https://nlp.elvissaravia.com/) - paper recap
 	- https://www.supervised.news/ is new but promising quality

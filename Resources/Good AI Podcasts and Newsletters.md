@@ -15,6 +15,10 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- [Machine Learning Street Talk](https://www.youtube.com/c/MachineLearningStreetTalk) (Tim Scarfe) - great backlog of safety/philosophy researcher interviews
 	- [Deep Papers](https://www.deeppapers.dev/) (Arize AI staff) - deep dives on today’s seminal AI papers and research.
 	- [The Retort](https://retortai.com/)  and [Interconnects Audio](https://podcast.interconnects.ai/) (Nathan Lambert) - Topical coverage from [a RLHF researcher and an AI ethicist](https://retortai.com/people) (new)
+	- [Chain of Thought](https://chainofthought.show/) (Conor Bronsdon) - AI engineering interviews: agents, evals, LLMOps, developer infrastructure
+	- [AI Engineering Podcast](https://www.aiengineeringpodcast.com/) (Tobias Macey) - long-running interviews on building and operating AI systems in production
+	- [How I AI](https://www.lennysnewsletter.com/s/how-i-ai) (Claire Vo) - screen-share episodes showing how people actually use AI tools in their daily work, part of Lenny's podcast network
+	- [MLOps.community](https://podcast.mlops.community/) (Demetrios Brafman) - practitioner interviews on shipping and running ML and LLM systems
 - News/Youtubers
 	- ⭐ [Last Week in AI](https://lastweekin.ai/)- quite long news recap but very consistent and well organized
 	- ⭐[Yannic Kilcher](https://www.youtube.com/@YannicKilcher) - paper reviews and news recaps. less frequent these days.
@@ -33,10 +37,6 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- smaller creators worth noting: [Algorithmic Simplicity](https://www.youtube.com/watch?v=N6Piou4oYx8) (explanations of archs), [Umar Jamil (standard concept teaching channel, very technical)](https://www.youtube.com/@umarjamilai?app=desktop) and [Daniel Bourke (livestream paper replication)](https://www.youtube.com/@danielbourkearxiv2821?app=desktop), [Efficient NLP (good short paper/technique explainers)](https://www.youtube.com/@EfficientNLP), [Trelis Research](https://www.youtube.com/watch?v=ae2lbmtTY5A), [McKay Wrigley](https://www.youtube.com/@realmckaywrigley)
 	- [/r/LocalLlama list has 23 recommendations](https://www.reddit.com/r/LocalLLaMA/comments/1atycgd/which_localllama_focused_yt_channels_do_you_follow/)
 - Companies
-	- [Chain of Thought](https://chainofthought.show/) (Conor Bronsdon) - AI engineering interviews: agents, evals, LLMOps, developer infrastructure
-	- [AI Engineering Podcast](https://www.aiengineeringpodcast.com/) (Tobias Macey) - long-running interviews on building and operating AI systems in production
-	- [How I AI](https://www.lennysnewsletter.com/s/how-i-ai) (Claire Vo) - screen-share episodes showing how people actually use AI tools in their daily work, part of Lenny's podcast network
-	- [MLOps.community](https://podcast.mlops.community/) (Demetrios Brafman) - practitioner interviews on shipping and running ML and LLM systems
 	- [The DeepMind Podcast](https://deepmind.google/discover/the-podcast/) - from GDM 
 	- [The Cognitive Revolution](https://www.cognitiverevolution.ai/) - Nathan Labenz - great new pod
 	- [Gradient Dissent](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_) - Weights and Biases - Lukas is a great host. Recently taken over to Caryn Marooney.

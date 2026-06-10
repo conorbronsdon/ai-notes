@@ -34,6 +34,9 @@ some of these are on youtube too, i dont really bother separating them. ⭐  rep
 	- [/r/LocalLlama list has 23 recommendations](https://www.reddit.com/r/LocalLLaMA/comments/1atycgd/which_localllama_focused_yt_channels_do_you_follow/)
 - Companies
 	- [Chain of Thought](https://chainofthought.show/) (Conor Bronsdon) - AI engineering interviews: agents, evals, LLMOps, developer infrastructure
+	- [AI Engineering Podcast](https://www.aiengineeringpodcast.com/) (Tobias Macey) - long-running interviews on building and operating AI systems in production
+	- [How I AI](https://www.lennysnewsletter.com/s/how-i-ai) (Claire Vo) - screen-share episodes showing how people actually use AI tools in their daily work, part of Lenny's podcast network
+	- [MLOps.community](https://podcast.mlops.community/) (Demetrios Brafman) - practitioner interviews on shipping and running ML and LLM systems
 	- [The DeepMind Podcast](https://deepmind.google/discover/the-podcast/) - from GDM 
 	- [The Cognitive Revolution](https://www.cognitiverevolution.ai/) - Nathan Labenz - great new pod
 	- [Gradient Dissent](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_) - Weights and Biases - Lukas is a great host. Recently taken over to Caryn Marooney.
